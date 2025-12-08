@@ -74,9 +74,11 @@ backgroundPosition: center
 
 ![bg](background.jpg)
 
-\_color: red
+---
 
-# **Product Workflow**
+<!--_color: red-->
+
+# <!--fit-->Product Workflow
 
 ---
 
