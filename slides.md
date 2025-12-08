@@ -3,7 +3,6 @@ marp: true
 theme: custom-tech-doc
 class: lead
 paginate: true
-_paginate: true
 ---
 
 <style>
