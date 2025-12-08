@@ -1,17 +1,8 @@
 ---
 marp: true
-theme: custom-tech-doc
+theme: gaia
 class: lead
 paginate: true
-style: |
-  section {
-    background: #f5faff;
-    color: #003366;
-  }
-  h1 {
-    color: #002244;
-    font-size: 2.6rem;
-  }
 ---
 
 <style>
@@ -21,7 +12,7 @@ section {
   color: #222;
 }
 h1 {
-  color: #004b8d;
+  color: #5b6f80ff;
 }
 footer {
   font-size: 0.7rem;
@@ -82,6 +73,8 @@ backgroundPosition: center
 <!-- Background image -->
 
 ![bg](background.jpg)
+
+\_color: red
 
 # **Product Workflow**
 
