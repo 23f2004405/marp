@@ -66,11 +66,14 @@ $$
 
 <!-- Replace the URL with any public background image -->
 
-<!--
-backgroundImage: url('https://images.unsplash.com/photo-1518770660439-4636190af475')
+<!--backgroundImage: url('https://images.unsplash.com/photo-1518770660439-4636190af475')
 backgroundSize: cover
 backgroundPosition: center
 -->
+
+<!-- Background image -->
+
+![bg](background.jpg)
 
 # **Product Workflow**
 
