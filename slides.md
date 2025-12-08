@@ -3,6 +3,15 @@ marp: true
 theme: custom-tech-doc
 class: lead
 paginate: true
+style: |
+  section {
+    background: #f5faff;
+    color: #003366;
+  }
+  h1 {
+    color: #002244;
+    font-size: 2.6rem;
+  }
 ---
 
 <style>
